@@ -16,7 +16,8 @@ public class SimplestTest{
 
         final String variable = "Environment";
         final String result = System.getenv("result");
-        
+
+
         
 //         final String variable = "Environment";
 //         final String result = System.getenv("result");
