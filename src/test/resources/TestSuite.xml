@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Тесты Team City">
+	<test name="Простейший тест" >
+		<classes>
+			<class name="teamCity.tests.SimplestTest"/>
+		</classes>
+	</test>
+</suite>
+
