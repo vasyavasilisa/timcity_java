@@ -1,9 +1,9 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
 <suite name="Тесты Team City">
-	<test name="Простейший тест" >
+	<test name="Allure тест" >
 		<classes>
-			<class name="teamCity.tests.SimplestTest"/>
+			<class name="teamCity.tests.AllureTest"/>
 		</classes>
 	</test>
 </suite>
