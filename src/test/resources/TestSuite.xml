@@ -1,10 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-
-<suite name="Тесты Team City">
-	<test name="Простейший тест" >
+<suite name="Demo Test Plan" verbose="1">
+	<test name="GoogleSearchTest">
 		<classes>
-			<class name="teamCity.tests.SimplestTest"/>
-		</classes>
+			<class name="steam.tests.SteamTest" />
+        </classes>
 	</test>
 </suite>
-
