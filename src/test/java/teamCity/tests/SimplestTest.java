@@ -14,8 +14,8 @@ public class SimplestTest{
 
         logger.info("--- Start Simplest Test ---");
 
-        final String variable = "System Properties";
-        final String result = System.getProperty("result");  
+        final String variable = "Environment";
+        final String result = System.getenv("result");
         
         
 //         final String variable = "Environment";
